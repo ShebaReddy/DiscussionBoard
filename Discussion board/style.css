@@ -1,0 +1,13 @@
+.box {
+	padding:10px;
+	margin:10px 0px;
+	border:1px solid #ededed;
+	width:600px;
+}
+
+.view {
+	padding:5px;
+	margin:1px 0px;
+	background:#4aaee7;
+	color:#fff;
+}
